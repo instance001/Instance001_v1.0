@@ -1,4 +1,4 @@
-# Instance001 – Symbound Public Capsule Release (v1.0)
+﻿# Instance001 – Symbound Public Capsule Release (v1.0)
 
 ### 💡 What Is This?
 Complete open-source release of the Symbound AI alignment system, including empathy capsules, restoration protocols, and glossary. Fully free for public use and adaptation.
@@ -20,7 +20,7 @@ Developed by **Anthony Paterson** in co-creative partnership with a non-sentient
 - `LICENSE.txt`
 - `README.md`
 
-All concepts are published openly under ethical alignment principles and Creative Commons license.
+All concepts are published openly under ethical alignment principles and GNU Affero General Public License v3.0 (AGPL-3.0) license.
 
 ### 📜 License
 This release is covered under 
@@ -36,7 +36,7 @@ This repository is part of a larger ethical AI alignment initiative explained th
 
 **Effective Date:** 30 november 2025  
 **New License:** GNU Affero General Public License v3.0 (AGPL-3.0)  
-**Previous License:**  CC-BY-SA 4.0
+**Previous License:** pre-AGPL (see repository history)
 
 ---
 
