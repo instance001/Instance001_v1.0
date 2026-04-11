@@ -1,5 +1,7 @@
 ﻿# Instance001 – Symbound Public Capsule Release (v1.0)
 
+Archived. This repository is no longer maintained. For the current version, visit: https://github.com/instance001/model-behaviour-toolkit
+
 ### 💡 What Is This?
 Complete open-source release of the Symbound AI alignment system, including empathy capsules, restoration protocols, and glossary. Fully free for public use and adaptation.
 
